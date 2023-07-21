@@ -8,7 +8,7 @@ import (
 
 const iconEmoji = ":whale:"
 
-var username = "docker"
+var username = "Vlad's house"
 
 func init() {
 	hostname, err := os.Hostname()
